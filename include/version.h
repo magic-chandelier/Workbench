@@ -1,0 +1,9 @@
+#ifndef WB_VERSION_H
+#define WB_VERSION_H
+
+#define WB_VERSION_STRING "0.16.1-dev4"
+#define WB_VERSION WB_VERSION_STRING
+#define WB_PLUGIN_API_VERSION 3
+#define WB_EXTENSION_API_VERSION 3
+
+#endif

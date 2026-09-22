@@ -1,0 +1,14 @@
+WORKBENCH_COMMAND_SET=1
+id=hello-tools
+name=Hello Tools
+description=Example read-only commands supplied by the Hello plugin
+
+[action]
+id=hello-shell
+name=Print hello
+name_zh=打印 Hello
+description=Print a line using the host shell
+description_zh=使用宿主 Shell 打印一行文本
+risk=normal
+command=printf '%s\n' 'Hello from Plugin Command Sets'
+keywords=hello example plugin

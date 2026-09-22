@@ -1,0 +1,7 @@
+#!/bin/sh
+set -eu
+if [ "${1:-}" = "--workbench-file-action" ]; then
+    printf 'action=%s\npath=%s\n' "${2:-}" "${4:-}"
+    exit 0
+fi
+printf 'File Actions Demo application\n'

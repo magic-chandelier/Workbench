@@ -1,0 +1,106 @@
+Workbench Source License 1.0
+
+Copyright (c) 2026 the Workbench copyright holder(s). All rights reserved.
+
+This Workbench Source License 1.0 (the "License") governs the Workbench
+software and documentation that expressly reference this License (the
+"Software"). By exercising permissions granted below, you accept this
+License.
+
+1. Permitted Use
+
+Subject to this License, the copyright holder(s) grant you a personal,
+non-exclusive, non-transferable, non-sublicensable, revocable license to:
+
+(a) view and study the source code;
+(b) make copies reasonably necessary for personal, educational, security
+    evaluation, or internal evaluation purposes;
+(c) run the Software for personal non-commercial use or internal evaluation;
+(d) modify the Software for private use, provided that the modified version is
+    not Distributed or used for a prohibited Commercial Use.
+
+2. Commercial Use
+
+"Commercial Use" means use primarily intended for commercial advantage or
+monetary compensation, including but not limited to resale, paid hosting,
+managed services, incorporation into a paid product or service, or providing
+the Software to customers as part of a commercial offering.
+
+Commercial Use is not granted by this License and requires separate prior
+written permission from the applicable Workbench copyright holder(s).
+
+3. Redistribution
+
+"Redistribution" or "Distribute" means making the Software, a compiled binary,
+or a modified or derivative version available to another person or entity,
+whether publicly or privately, except for copies made solely within the same
+legal entity for internal evaluation.
+
+Redistribution, public publication of modified versions, sublicensing, sale,
+rental, relicensing, or offering derivative products based on the Software is
+not granted by this License and requires separate prior written permission.
+
+A public repository host may provide platform-native viewing or fork features
+under that host's own terms. Such platform rights do not grant any additional
+right under this License to use, commercialize, sublicense, or redistribute the
+Software outside what this License expressly permits.
+
+4. Notices and Attribution
+
+You must preserve all copyright, license, attribution, security, and
+third-party notices included with copies of the Software that you are
+permitted to make.
+
+5. Third-Party Software
+
+This License applies only to Workbench-owned material. "Third-Party Software"
+means software, libraries, system components, tools, commands, documentation,
+trademarks, or other material owned by third parties. Third-Party Software is
+not relicensed by this License and remains subject to its own terms.
+
+Workbench may invoke separate programs installed on the host operating system.
+Those external programs are not part of the Software merely because Workbench
+can execute them. See THIRD_PARTY_NOTICES.md for the current project boundary.
+
+6. Trademarks
+
+No trademark, service mark, logo, product name, domain name, or brand license is
+granted by this License. Any permitted reference to Workbench must not imply
+sponsorship, certification, affiliation, or endorsement that does not exist.
+Third-party marks remain the property of their respective owners.
+
+7. Contributions
+
+Unless a separate written contributor agreement applies, by intentionally
+submitting a code, documentation, test, design, or other contribution for
+inclusion in Workbench, you represent that you have the right to submit it and
+grant the Workbench copyright holder(s) a perpetual, worldwide, irrevocable,
+royalty-free, non-exclusive right to use, reproduce, modify, prepare derivative
+works of, distribute, publicly display, publicly perform, sublicense, and
+relicense that contribution as part of or in connection with Workbench.
+
+8. No Implied Rights
+
+All rights not expressly granted by this License are reserved. No patent,
+trademark, redistribution, Commercial Use, hosted-service, sublicensing, or
+relicensing right is granted by implication, estoppel, or otherwise.
+
+9. Termination
+
+Your permissions under this License terminate automatically if you materially
+breach it. After termination, you must stop exercising the permissions granted
+by this License and delete copies that you are no longer permitted to retain,
+except where retention is required by law.
+
+10. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT
+PERMITTED BY LAW, THE COPYRIGHT HOLDER(S) SHALL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE.
+
+11. Separate Permission
+
+Permissions beyond this License may be granted only by a separate written
+agreement from the applicable Workbench copyright holder(s).

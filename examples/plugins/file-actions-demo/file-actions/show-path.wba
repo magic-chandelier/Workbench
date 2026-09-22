@@ -1,0 +1,8 @@
+WORKBENCH_FILE_ACTION=1
+format=1
+id=show-path
+name_zh=显示插件收到的路径
+name_en=Show path received by plugin
+entry=bin/demo
+target=any
+extensions=*

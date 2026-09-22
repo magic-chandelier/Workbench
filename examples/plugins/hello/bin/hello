@@ -1,0 +1,6 @@
+#!/bin/sh
+printf '\033[2J\033[H'
+printf '%s\n' 'Hello from a Workbench plugin.'
+printf '%s\n' 'This process is separate from Workbench Core.'
+printf '\nPress Enter to return to Workbench...'
+IFS= read -r _line || true

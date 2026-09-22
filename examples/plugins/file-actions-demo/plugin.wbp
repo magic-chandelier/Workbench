@@ -1,0 +1,12 @@
+WORKBENCH_PLUGIN=1
+format=1
+id=file-actions-demo
+version=1.0.0
+api_min=2
+api_max=2
+name_zh=文件操作示例
+name_en=File Actions Demo
+description_zh=演示 Workbench Plugin API v2 文件右键操作
+description_en=Example Workbench Plugin API v2 file context actions
+entry=bin/demo
+file_actions=file-actions

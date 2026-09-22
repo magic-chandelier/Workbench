@@ -1,0 +1,12 @@
+WORKBENCH_PLUGIN=1
+format=1
+id=hello
+version=1.0.0
+api_min=1
+api_max=1
+name_zh=Hello 插件
+name_en=Hello Plugin
+description_zh=Workbench Plugin System v0.1.0 最小示例
+description_en=Minimal Workbench Plugin System v0.1.0 example
+entry=bin/hello
+command_sets=command-sets

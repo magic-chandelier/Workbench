@@ -1,0 +1,10 @@
+/wb
+/dist/
+*.o
+*.swp
+*.swo
+*~
+.DS_Store
+
+__pycache__/
+*.pyc
